@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Alvarenga
 
- - 💻 Sou desenvolvedor full-stack à 2.5 anos
+ - 💻 Sou desenvolvedor full-stack à 3 anos
  - Trabalho com a linguagem Java (Inclusive sou um grande fã)
  - Para front-end utilizo o Bootstrap e o GWT
  - Minha meta é aperfeiçoar os conhecimentos em Java e avançar na linguagem junto ao Spring
