@@ -4,15 +4,10 @@
  - Trabalho com a linguagem Java (Inclusive sou um grande fã)
  - Para front-end utilizo o AngularJS. Mesmo sendo focado no backend estou aproveitando para aprender mais
  - Minha meta é aperfeiçoar os conhecimentos em Java e avançar na linguagem junto ao Spring Boot
- - Estou cursando o quinto período de TADS 👓👨‍💻
+ - Curso superior em TADS 👓👨‍💻
 
 ; )
 
-<div align="center">
-      <a href="https://github.com/danielhalvarenga">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhalvarenga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhalvarenga&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 <div style="display: inline_block;" align="center"><br>
       <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
