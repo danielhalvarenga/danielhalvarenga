@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Alvarenga
 
- - 💻 Sou desenvolvedor full-stack à 3.5 anos
+ - 💻 Sou desenvolvedor full-stack à 5 anos
  - Trabalho com a linguagem Java (Inclusive sou um grande fã)
  - Para front-end utilizo o AngularJS. Mesmo sendo focado no backend estou aproveitando para aprender mais
  - Minha meta é aperfeiçoar os conhecimentos em Java e avançar na linguagem e seus Frameworks
