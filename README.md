@@ -1,12 +1,33 @@
-## Olá! Eu sou Daniel Alvarenga
+# Olá, eu sou o Daniel Alvarenga! 👋
 
- - 💻 Sou desenvolvedor full-stack à 5 anos
- - Trabalho com a linguagem Java (Inclusive sou um grande fã)
- - Para front-end utilizo o AngularJS. Mesmo sendo focado no backend estou aproveitando para aprender mais
- - Minha meta é aperfeiçoar os conhecimentos em Java e avançar na linguagem e seus Frameworks
- - Curso superior em TADS 👓👨‍💻
+### Desenvolvedor Full-Stack | Especialista Java & Spring Ecosystem
 
-; )
+Sou um desenvolvedor apaixonado por tecnologia com **5 anos de experiência**, focado em criar soluções escaláveis e resilientes no ecossistema Java. Minha meta é a evolução constante em arquitetura distribuída e alta performance.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Backend:** Java (Core), Spring Boot, Spring Cloud e RESTful APIs.
+- **Mensageria & Infra:** Apache Kafka, Docker e AWS.
+- **Qualidade & Design:** TDD (JUnit/Mockito), Design Patterns, Clean Code e metodologias XP (Extreme Programming).
+
+---
+
+### 🚀 Especializações Recentes
+
+Aperfeiçoei meu stack técnico através de formações focadas no que há de mais moderno no mercado:
+* **Microservices & Cloud:** Arquiteturas distribuídas com Spring Cloud e Docker na AWS.
+* **Event-Driven:** Integração de mensageria com Apache Kafka, RabbitMQ, PubSub e Spring.
+* **Quality & XP:** Especialização em Testes (TDC) e desenvolvimento ágil com Extreme Programming.
+
+---
+
+### 🎓 Formação
+- 🎓 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (**TADS**)
+- 📖 Buscando especialização contínua nos frameworks Spring, Quarkus e arquitetura de sistemas.
+
+---
  
 <div style="display: inline_block;" align="center"><br>
       <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
